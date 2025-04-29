@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     // Substitua pela URL da sua API no Render
-    const apiUrl = 'https://datetime-api.onrender.com/datetime';
+    const apiUrl = 'https://atividade8.onrender.com/';
     
     fetch(apiUrl)
       .then(response => {
